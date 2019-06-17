@@ -1,4 +1,4 @@
-# drawer_tutorial
+# Sample Widgets
 
 This repo contains some common basic flutter widget implementation
 
